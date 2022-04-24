@@ -1,0 +1,5 @@
+error: "Ein Fehler ist aufgetreten, wenn dieses Problem weiterhin besteht, wenden Sie sich bitte an den Systemadministrator."
+
+cmds:
+  staff:
+    help: "Zeigt die Staff-Befehle an"

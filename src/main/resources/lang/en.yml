@@ -1,0 +1,5 @@
+error: "An error has occurred, please contact the system administrator if this problem persists."
+
+cmds:
+  staff:
+    help: "Show staff commands"

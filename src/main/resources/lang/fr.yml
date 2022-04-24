@@ -1,0 +1,5 @@
+error: "Une erreur est survenue, veuillez contacter un administrateur si le problème persiste."
+
+cmds:
+  staff:
+    help: "Affiche les commandes du staff"

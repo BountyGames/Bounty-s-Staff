@@ -1,0 +1,5 @@
+error: "Si è verificato un errore, se il problema persiste, contattare l'amministratore di sistema."
+
+cmds:
+  staff:
+    help: "Mostra le comandi del staff"

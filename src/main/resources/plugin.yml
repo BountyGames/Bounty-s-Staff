@@ -1,0 +1,13 @@
+name: Bstaff
+version: '${project.version}'
+main: fr.bountygames.bstaff.Main
+api-version: 1.13
+authors: [ BountyGames ]
+website: bountygames.fr
+
+commands:
+  staff:
+    description: "Staff Command"
+    permission: bstaff.staff
+    min-api: 1.13
+    max-api: 1.13
